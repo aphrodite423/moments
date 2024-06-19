@@ -1,0 +1,13 @@
+baseURL = "https://heartoftheearth.me/moments/"
+languageCode = "en-us"
+theme = "moments"
+paginate = 7
+paginatePath = '.'
+
+[params]
+    title = "動心起念 · Heartstir"
+    signature = "我在存在主義咖啡館裡不點咖啡。"
+    cover = "https://cdn.pixabay.com/photo/2018/03/13/22/53/puzzle-3223941_1280.jpg"
+
+    name = "Stella"
+    avatar = "/img/default_avatar.png"
